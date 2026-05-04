@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on college project's and freelance work <br>👯 I’m looking to collaborate on my skills and the companies which will hire me <br>🤝 I’m looking for help with new tech <br>🌱 I’m currently learning Core java and dsa<br>⚡ Fun factC i enjoy doing things annd solving bugs
+🔭 I’m currently working on college project's and freelance work <br>👯 I’m looking to collaborate on my skills and the companies which will hire me <br>🤝 I’m looking for help with new tech <br>🌱 I’m currently learning Core java and DSA<br>⚡ Fun fact :- i enjoy doing things and solving bugs
 
 
 ## 🌐 Socials:
